@@ -1,16 +1,19 @@
 ### Clone the repository
 
 git clone https://github.com/enilenz/docuSigner.git
+
 cd my-app
 
 
 ### Install dependencies
 Using npm: npm install
+
 Using yarn: yarn install
 
 
 ### Start the Next.js development server:
 Using npm: npm run dev
+
 Using yarn: yarn dev
 
 
